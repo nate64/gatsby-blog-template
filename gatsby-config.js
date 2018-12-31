@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Log Cabin Syntax',
     author: 'Nathan Estes',
-    description: 'My blog where I post what I am learning and re-learning.',
-    siteUrl: 'www.nathanestes.com',
+    description: 'A starter blog demonstrating what Gatsby can do.',
+    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
