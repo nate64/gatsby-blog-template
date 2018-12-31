@@ -27,8 +27,8 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Content by Nathan Estes.  Wherein I keep my skills sharp
-          by blogging and 'splaining.  {' '}
+          Content by Nathan Estes.  Wherein I Keep my Skills Sharp
+          by Blogging. I was Born in a Log Cabin.  {' '}
           <a href="https://twitter.com/nate64">
             Find me on the Twitter.  {' '}
           </a>
