@@ -4,7 +4,7 @@ import React from 'react'
 import 'typeface-montserrat'
 import 'typeface-merriweather'
 
-import profilePic from './profile-pic.jpg'
+import profilePic from './profile-pic.png'
 import { rhythm } from '../utils/typography'
 
 class Bio extends React.Component {
@@ -18,7 +18,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`Nathan Estes`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -27,10 +27,13 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Content by Nathan Estes.  Wherein I keep my skills sharp
+          by blogging and 'splaining.  {' '}
+          <a href="https://twitter.com/nate64">
+            Find me on the Twitter.  {' '}
+          </a>
+          <a href="https://www.linkedin.com/in/estesnathan/">
+            Or, check out my LinkedIn.
           </a>
         </p>
       </div>
