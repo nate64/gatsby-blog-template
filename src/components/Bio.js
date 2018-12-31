@@ -27,13 +27,10 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Content by Nathan Estes.  Wherein I Keep my Skills Sharp
+          My Name is Nathan Estes.  Wherein I Keep my Skills Sharp
           by Blogging. I was Born in a Log Cabin.  {' '}
           <a href="https://twitter.com/nate64">
             Find me on the Twitter.  {' '}
-          </a>
-          <a href="https://www.linkedin.com/in/estesnathan/">
-            Or, check out my LinkedIn.
           </a>
         </p>
       </div>
