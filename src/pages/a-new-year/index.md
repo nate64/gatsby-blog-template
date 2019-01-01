@@ -5,7 +5,7 @@ date: "2018-12-31T22:12:03.284Z"
 
 ## About Me
 
-Me?  I’m just a normal guy that wants to spend all my time learning this ancient art of ‘coding’.  
+I’m just a normal guy that wants to spend all my time learning this ancient art of ‘coding’.  
 
 I’ve been married to the girl of my dreams for 5 years now and we have 2 very adorable and happy little boys.  My family is very important to me and is who I spend time with when I am not pushing to Github.
 
@@ -20,7 +20,7 @@ If you want more of a resume, check out my
 
 I had a wild idea to quit my stable, benefitted job and complete one of those web development bootcamps.  I graduated from DevPoint Labs’ program in October of this year.
 
-Since graduation I have been pushing out resumes, pushing to Github and working with several great folks I met at boot camp to get CodeShoppe Studios off the ground.  
+Since graduation I have been pushing out resumes, pushing to Github and working with several great folks I met at boot camp to get <a href="https://www.codeshoppe.io">CodeShoppe Studios</a> off the ground.  
 
 
 ## Why this blog?
