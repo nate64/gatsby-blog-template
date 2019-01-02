@@ -27,8 +27,8 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          My Name is Nathan Estes.  Wherein I Keep my Skills Sharp
-          by Blogging. I was Born in a Log Cabin.  {' '}
+          My Name is Nate Estes.  I am a Full Stack Web Developer Using ReactJS and Ruby on Rails.
+          I was Born in a Log Cabin.  {' '}
           <a href="https://twitter.com/nate64">
             Find me on the Twitter.  {' '}
           </a>
