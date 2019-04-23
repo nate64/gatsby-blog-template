@@ -68,5 +68,5 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-#ignores my blog post drafts that I save in this directory
+#ignores my blog post drafts that I save in this directory, yo
 *.pages
